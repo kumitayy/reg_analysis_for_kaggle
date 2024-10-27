@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # reg_analysis_for_kaggle
-(RU) VSCode project featuring voting ensemble making predictions of real-estate prices for House Prices - Advanced Regression Techniques competition (Kaggle)
+(RU) VSCode project featuring voting ensemble making predictions on real-estate prices for House Prices - Advanced Regression Techniques competition (Kaggle)
 =======
 # Проект: Прогнозирование цен на недвижимость
 
