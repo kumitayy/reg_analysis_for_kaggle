@@ -44,7 +44,7 @@
 1. Клонируйте репозиторий:
 
    ```sh
-   git clone <URL репозитория>
+   git clone <https://github.com/kumitayy/reg_analysis_for_kaggle>
    ```
 
 2. Установите необходимые зависимости:
