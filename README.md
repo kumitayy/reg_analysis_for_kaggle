@@ -47,13 +47,19 @@
    git clone <https://github.com/kumitayy/reg_analysis_for_kaggle>
    ```
 
-2. Установите необходимые зависимости:
+2. Установите виртуальное окружение venv:
+   ```sh
+   python -m venv venv
+   .\venv\Scripts\activate
+   ```
+   
+3. Установите необходимые зависимости:
 
    ```sh
    pip install -r requirements.txt
    ```
 
-3. Запустите основной скрипт:
+4. Запустите основной скрипт:
 
    ```sh
    python proj_main.py
