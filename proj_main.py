@@ -24,8 +24,8 @@ from xgboost import XGBRegressor
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Загрузка данных
-data_train = pd.read_csv('train.csv').drop(columns='Id').copy(deep=True)
-data_test = pd.read_csv('test.csv').drop(columns='Id').copy(deep=True)
+data_train = pd.read_csv('train.csv').drop(columns='Id')
+data_test = pd.read_csv('test.csv').drop(columns='Id')
 
 # Настройки отображения Pandas
 pd.set_option('display.max_rows', 100)
